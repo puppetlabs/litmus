@@ -7,6 +7,8 @@ The main engineering goal of Litmus is to re-use as much existing content and ex
 Smaller re-usable components and leveraging functionality of other projects allows for easier adaptation and allows Litmus to ride along on the success of others, like bolt.
 It also means that it is easier to replace the parts that did not turn out to fulfill the needs of the users.
 
+![Litmus Overview]({% link resources/puppet-litmus.png %})
+
 ## Components
 
 The following list is the current set of components and implementation choices. Some of those choices are pure expediency to get something working. Others clear strategic decisions to build a better-together story.
