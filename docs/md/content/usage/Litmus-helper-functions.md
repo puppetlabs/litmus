@@ -1,5 +1,7 @@
 ---
+title: Helper functions
 layout: page
+description: Learn all about Litmus functions.
 ---
 
 Inside of the Litmus gem, there are three distinct sets of functions:

@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Core commands
+description: Learn Litmus core commands.
 ---
 
 Using the Litmus commands, you can provision test platforms such as containers/images, install a Puppet agent, install a module and run tests.

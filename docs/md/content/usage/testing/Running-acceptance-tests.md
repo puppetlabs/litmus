@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Acceptance tests
+description: Acceptance testing with Litmus.
 ---
 
 The following example walks you through running an acceptance test on the [MoTD](https://github.com/puppetlabs/puppetlabs-motd) module.

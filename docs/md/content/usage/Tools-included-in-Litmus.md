@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Tools
+description: Learn the tools Litmus uses.
 ---
 
 Litmus wraps functionality from other tools, providing a rake interface for you to develop modules.

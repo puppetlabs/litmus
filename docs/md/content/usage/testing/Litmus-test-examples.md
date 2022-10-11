@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Example tests
+description: A list of example Litmus tests.
 ---
 
 These are some common examples you can use in your tests. Take note of the differences between beaker-rspec style testing and Litmus.

@@ -1,13 +1,13 @@
 ---
 layout: page
+title: Concepts
+description: Expanded information on how Litmus works.
 ---
 
 
 The main engineering goal of Litmus is to re-use as much existing content and external code as is feasible.
 Smaller re-usable components and leveraging functionality of other projects allows for easier adaptation and allows Litmus to ride along on the success of others, like bolt.
 It also means that it is easier to replace the parts that did not turn out to fulfill the needs of the users.
-
-![Litmus Overview]({% link resources/puppet-litmus.png %})
 
 ## Components
 

@@ -1,5 +1,8 @@
 ---
 layout: page
+title: Quick Start Guide
+description: Learn how to use Litmus in your Puppet modules.
+weight: 1
 ---
 
 The following example walks you through enabling Litmus testing in a module.
@@ -70,4 +73,4 @@ end
 
 ## 4. Add tests to `spec/acceptance`
 
-You can find [litmus test examples]({% link Litmus-test-examples.md %}) on their own page.
+You can find [litmus test examples](/content-and-tooling-team/docs/litmus/usage/testing/litmus-test-examples/) on their own page.

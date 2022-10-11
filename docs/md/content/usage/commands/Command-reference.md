@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Command reference
+description: List of useful Litmus commands.
 ---
 
 ### Debug
